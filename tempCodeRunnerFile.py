@@ -1,1 +1,1 @@
-cv.imshow('video',frame)
+img= cv.imread('photos\face')
