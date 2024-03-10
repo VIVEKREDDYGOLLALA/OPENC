@@ -1,0 +1,1 @@
+cv.imshow('video',frame)
